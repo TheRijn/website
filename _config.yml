@@ -1,0 +1,57 @@
+# Site
+repository: TheRijn/website
+favicon: images/favicon.ico
+
+# Personal info
+name: Marijn Jansen
+title: Student Informatica en Studentassistent bij Minor programmeren
+email: marijn@jansen.onl
+# website: jansenmarijn.nl
+
+# Social links
+twitter_username: marijn100
+github_username:  TheRijn
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: marijn1000
+linkedin_username: marijnrvjansen
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+
+# About Section
+about_title: Over mij
+about_profile_image: images/marijn.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hoi, mijn naam is Marijn. Ik studeer op dit moment Informatica aan de Universiteit van Amsterdam.
+
+# Projects Section
+projects_title: Projecten
+
+# Experience Section
+experience_title: Ervaringen
+
+# Education Section
+educaton_title: Opleidingen
+
+# More Section
+more_title: Meer over mij
+more_content: | # this will include new lines to allow paragraphs
+  Daarnaast zijn mijn hobbies:
+    - Solderen
+    - Snowboarden
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+darkmode: false

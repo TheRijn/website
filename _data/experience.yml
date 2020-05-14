@@ -1,0 +1,14 @@
+- layout: left
+  company: Universiteit van Amsterdam
+  link: mprog.nl
+  job_title: Studentassistent
+  dates: februari 2017 - heden
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Ik geef de vakken:
+      - Programmeren 1 & 2, gebaseerd op Harverd's CS50.
+      - Native App Studio, iOS en Android development.
+      - Web App Studo, gebaseerd op Harver's CS50 Webprogramming with JavaScript and Python.
+      - Programmeerproject.
+
