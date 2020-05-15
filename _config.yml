@@ -25,6 +25,8 @@ about_profile_image: images/marijn.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hoi, mijn naam is Marijn. Ik studeer op dit moment Informatica aan de Universiteit van Amsterdam.
 
+  Mijn CV is nog niet volledig op deze website, een volledige versie als PDF vindt u [hier](https://github.com/TheRijn/CV/raw/master/main.pdf).
+
 # Projects Section
 projects_title: Projecten
 
