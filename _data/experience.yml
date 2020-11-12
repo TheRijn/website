@@ -1,6 +1,16 @@
+# - layout: left (options: left, right, top, top-right, top-middle)
+#   company: Company name
+#   link: Link to company (eg. https://google.com)(optional)
+#   job_title: Job title
+#   dates: Date Range (eg. November 2016 - present)
+#   quote: >
+#    Short description of the company (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of role
+
 - layout: left
   company: Universiteit van Amsterdam
-  link: mprog.nl
+  link: https://mprog.nl
   job_title: Studentassistent
   dates: februari 2017 - heden
   # quote: >
@@ -9,6 +19,22 @@
     Ik geef de vakken:
       - Programmeren 1 & 2, gebaseerd op Harverd's CS50.
       - Native App Studio, iOS en Android development.
-      - Web App Studo, gebaseerd op Harver's CS50 Webprogramming with JavaScript and Python.
+      - Web App Studo, gebaseerd op Harverd's CS50 Webprogramming with JavaScript and Python.
       - Programmeerproject.
 
+- layout: top
+  company: Gamma Compact Amsterdam - Goedhart
+  link: https://goedhart.com
+  jobs:
+    -  title: Verkoop Medewerker
+       dates: juli 2020 - heden
+    -  title: Verkoop Medewerker
+       dates: december 2016 - december 2017
+  description: |
+    Gamma Compact is anders dan een reguliere Gamma. Per dag zijn er 3 tot 6 medewerkers aanwezig, hierdoor zijn de werkzaamheden erg variërend.
+
+- layout: top
+  company: Media Markt Amsterdam West
+  # link:
+  job_title: Servicebalie Medewerker
+  dates: juli 2015 - november 2016
