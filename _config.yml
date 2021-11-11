@@ -23,7 +23,7 @@ linkedin_username: marijndoeve
 about_title: Over mij
 about_profile_image: images/marijn.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Een volledige versie van mijn CV is  [hier](https://github.com/TheRijn/CV/raw/master/main.pdf) te vinden.
+  Een volledige versie van mijn CV is [hier](https://github.com/TheRijn/CV/raw/master/main.pdf) te vinden.
 
 # Projects Section
 projects_title: Projecten

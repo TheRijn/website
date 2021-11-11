@@ -8,8 +8,8 @@
 #   description: | # this will include new lines to allow paragraphs
 #     Description of role
 
-- layout: left
-  company: Universiteit van Amsterdam
+- layout: top
+  company: Minor Programmeren - Universiteit van Amsterdam
   link: www.proglab.nl
   job_title: Studentassistent
   dates: februari 2017 - heden
@@ -19,6 +19,7 @@
       - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79749) & [2](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79750), gebaseerd op Harvard's CS50
       - [Native App Studio](https://studiegids.uva.nl/xmlpages/page/2018-2019/zoek-vak/vak/63037), iOS en Android development
       - [Web App Studio](https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/73624), gebaseerd op Harvard's CS50 Webprogramming with JavaScript and Python
+      - [Programmeerplatforms](#)
       - [Programmeerproject](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79446)
       - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79445)
 
@@ -26,13 +27,13 @@
   company: Gamma Compact Amsterdam - Goedhart
   link: www.goedhart.com
   jobs:
-    -  title: Verkoop Medewerker
-       dates: juli 2020 - heden
+    -  title: Verkoopmedewerker
+       dates: juli 2020 - september 2021
     -  title: Verkoop Medewerker
        dates: december 2016 - december 2017
 
 - layout: top
   company: Media Markt Amsterdam West
   # link:
-  job_title: Servicebalie Medewerker
+  job_title: Servicebaliemedewerker
   dates: juli 2015 - november 2016

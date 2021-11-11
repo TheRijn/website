@@ -9,22 +9,25 @@
 
 - layout: top
   name: Universiteit van Amsterdam
-  dates: 2016 - heden
+  dates: september 2016 - heden
   qualification: BSc Computer Science
-#   quote: >
-#     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  # description: | # this will include new lines to allow paragraphs
-  #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-  #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 - layout: left
   name: Minor Programmeren - Universiteit van Amsterdam
   dates: februari 2016 - juli 2016
   qualification: Minor programma (30ec)
   description: |
     _Vakken:_
-    - Programmeren 1
-    - Programmeren 2
-    - Native App Studio - iOS track
-    - Programmeertheorie
-    - Programmeeproject
+    - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21841)
+    - [Programmeren 2](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21842)
+    - [Native App Studio - iOS track](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/22110)
+    - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21567)
+    - [Programmeeproject](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/19645)
+
+- layout: top
+  name: Hogeschool Leiden
+  dates: september 2012 - juli 2016
+  qualification: BASc Chemie
+  description: |
+    Propedeuse behaald.
+
