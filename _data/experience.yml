@@ -10,27 +10,35 @@
 
 - layout: top
   company: Minor Programmeren - Universiteit van Amsterdam
-  link: www.proglab.nl
+  link: proglab.nl
   job_title: Studentassistent
-  dates: februari 2017 - heden
+  dates: februari 2017 - juli 2022
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-      - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79749) & [2](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79750), gebaseerd op Harvard's CS50
-      - [Native App Studio](https://studiegids.uva.nl/xmlpages/page/2018-2019/zoek-vak/vak/63037), iOS en Android development
-      - [Web App Studio](https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/73624), gebaseerd op Harvard's CS50 Webprogramming with JavaScript and Python
-      - [Programmeerplatforms](#)
-      - [Programmeerproject](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79446)
-      - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79445)
+    - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/89535) & [2](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/89536), gebaseerd op Harvard's CS50
+    - [Native App Studio](https://studiegids.uva.nl/xmlpages/page/2018-2019/zoek-vak/vak/63037), iOS en Android development
+    - [Web App Studio](https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/73624), gebaseerd op Harvard's CS50 Webprogramming with JavaScript and Python
+    - [Programmeerplatforms](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/90366)
+    - [Programmeerproject](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/90367)
+    - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/89256)
+
+- layout: top
+  name: ICT-commissie Studievering via
+  link: svia.nl/ict
+  dates: september 2021 - heden
+  description: |
+    De ICT-commissie van **via** beheerd de verschillende ICT-proejcten die gebruikt
+    worden binnen de vereniging. Denk onder andere aan de website en het kassasysteem.
 
 - layout: top
   company: Gamma Compact Amsterdam - Goedhart
   link: www.goedhart.com
   jobs:
-    -  title: Verkoopmedewerker
-       dates: juli 2020 - september 2021
-    -  title: Verkoop Medewerker
-       dates: december 2016 - december 2017
+    - title: Verkoopmedewerker
+      dates: juli 2020 - september 2021
+    - title: Verkoop Medewerker
+      dates: december 2016 - december 2017
 
 - layout: top
   company: Media Markt Amsterdam West

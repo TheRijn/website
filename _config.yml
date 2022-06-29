@@ -6,11 +6,12 @@ favicon: images/favicon.ico
 name: Marijn Doeve
 title: Student Informatica en Studentassistent bij Minor programmeren
 email: marijn@doeve.me
-# website: jansenmarijn.nl
+# website: marijndoeve.nl
 
 # Social links
 twitter_username: marijn100
-github_username:  TheRijn
+github_username: TheRijn
+stackoverflow_username: "4734846"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -23,7 +24,11 @@ linkedin_username: marijndoeve
 about_title: Over mij
 about_profile_image: images/marijn.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Een volledige versie van mijn CV is [hier](https://github.com/TheRijn/CV/raw/master/main.pdf) te vinden.
+  Hoi! Ik ben Marijn all-round nerd en student Informatica. Ik heb mijn bachelor bijna
+  afgerond, maar ben voor nu eerst opzoek naar een leuke baan.
+
+  Ik heb veel ervaring met Python
+  en Swift, maar vind het ook erg leuk om iets nieuws te leren.
 
 # Projects Section
 projects_title: Projecten
@@ -40,6 +45,14 @@ educaton_title: Opleidingen
 #   Daarnaast zijn mijn hobbies:
 #     - Solderen
 #     - Snowboarden
+more_title: Programmeertalen en Frameworks
+more_content: |
+  Een selectie van de programmeertalen en framworks waar ik door de jaren heen mee
+  gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
+
+  Android, Bash, C, C#, C++, CSS, __Django__, __Docker__, Flask, Git, Go, __HTML__, Haskell,
+  Java, JavaScript, LaTeX, Nginx, PHP, Prolog, Pug, __Python__, Sass, Scratch, __Swift__,
+  SwiftUI, Treafik, TypeScript , UIKit, Vue.js
 
 # Footer
 footer_show_references: false
@@ -52,6 +65,6 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
 darkmode: false
