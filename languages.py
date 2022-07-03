@@ -1,14 +1,14 @@
 languages = [
-    "C",
-    "Python",
-    "Django",
+    "__C__",
+    "__Python__",
+    "__Django__",
     "Flask",
     "Java",
     "JavaScript",
     "PHP",
     "TypeScript ",
-    "Vue.js,",
-    "Docker",
+    "Vue.js",
+    "__Docker__",
     "Git",
     "LaTeX",
     "HTML",
@@ -17,7 +17,7 @@ languages = [
     "Pug",
     "C++",
     "C#",
-    "Swift",
+    "__Swift__",
     "SwiftUI",
     "UIKit",
     "Android",
@@ -32,5 +32,8 @@ languages = [
     "SQL",
     "Linux",
     "Ubuntu",
+    "Jinja",
+    "macOS",
+    "Unity",
 ]
-print(", ".join(sorted(languages)))
+print(", ".join(sorted(languages, key=lambda x: x.replace("__", "").lower())))

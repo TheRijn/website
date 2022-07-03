@@ -50,9 +50,7 @@ more_content: |
   Een selectie van de programmeertalen en framworks waar ik door de jaren heen mee
   gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
 
-  Android, Bash, C, C#, C++, CSS, Django, Docker, Flask, Git, Go, HTML, Haskell,
-  Java, JavaScript, LaTeX, Linux, Nginx, PHP, PostgreSQL, Prolog, Pug, Python,
-  SQL, Sass, Scratch, Swift, SwiftUI, Treafik, TypeScript , UIKit, Ubuntu, Vue.js
+  Android, Bash, __C__, C#, C++, CSS, __Django__, __Docker__, Flask, Git, Go, Haskell, HTML, Java, JavaScript, Jinja, LaTeX, Linux, macOS, Nginx, PHP, PostgreSQL, Prolog, Pug, __Python__, Sass, Scratch, SQL, __Swift__, SwiftUI, Treafik, TypeScript , Ubuntu, UIKit, Unity, Vue.js
 
 # Footer
 footer_show_references: false
