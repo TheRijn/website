@@ -28,5 +28,9 @@ languages = [
     "Bash",
     "Go",
     "Scratch",
+    "PostgreSQL",
+    "SQL",
+    "Linux",
+    "Ubuntu",
 ]
 print(", ".join(sorted(languages)))
