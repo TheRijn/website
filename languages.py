@@ -35,5 +35,8 @@ languages = [
     "Jinja",
     "macOS",
     "Unity",
+    "Arduino",
+    "ESP32",
+    "pfSense",
 ]
 print(", ".join(sorted(languages, key=lambda x: x.replace("__", "").lower())))
