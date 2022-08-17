@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Marijn Doeve
-title: Student Informatica en Studentassistent bij Minor programmeren
+title: Junior Developer bij True B.V.
 email: marijn@doeve.me
 # website: marijndoeve.nl
 
@@ -47,7 +47,7 @@ education_title: Opleidingen
 #     - Snowboarden
 more_title: Programmeertalen en Frameworks
 more_content: |
-  Een selectie van de programmeertalen en framworks waar ik door de jaren heen mee
+  Een selectie van de programmeertalen en frameworks waar ik door de jaren heen mee
   gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
 
   Android, Arduino, Bash, __C__, C#, C++, CSS, __Django__, __Docker__, ESP32, Flask, Git, Go, Haskell, HTML, Java, JavaScript, Jinja, LaTeX, Linux, macOS, Nginx, pfSense, PHP, PostgreSQL, Prolog, Pug, __Python__, Sass, Scratch, SQL, __Swift__, SwiftUI, Treafik, TypeScript , Ubuntu, UIKit, Unity, Vue.js
