@@ -5,7 +5,7 @@ languages = [
     "Flask",
     "Java",
     "JavaScript",
-    "PHP",
+    "__PHP__",
     "TypeScript ",
     "Vue.js",
     "__Docker__",
@@ -14,7 +14,6 @@ languages = [
     "HTML",
     "CSS",
     "Sass",
-    "Pug",
     "C++",
     "C#",
     "__Swift__",
@@ -38,5 +37,11 @@ languages = [
     "Arduino",
     "ESP32",
     "pfSense",
+    "__Symfony__",
+    "CakePHP",
+    "Angular",
+    "AngularJS",
+    "Kubernetes",
+    "Helm",
 ]
 print(", ".join(sorted(languages, key=lambda x: x.replace("__", "").lower())))
