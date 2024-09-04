@@ -3,17 +3,32 @@
 #   link: Link to company (eg. https://google.com)(optional)
 #   job_title: Job title
 #   dates: Date Range (eg. November 2016 - present)
+#   qualification:
 #   quote: >
 #    Short description of the company (optional)
 #   description: | # this will include new lines to allow paragraphs
 #     Description of role
 
-- layout: top
+- layout: left
   company: True B.V.
   link: true.nl
-  job_title: Junior Developer
-  dates: augustus 2022 - heden
-  # description:
+  description: |
+    Direct na mijn studie ben ik gestart bij True in het development-team. Ik
+    gewerkt aan TrueCare en TrueAdmin. Een inhouse ontwikkeld platform waar klanten en
+    medewerkers omgevingen, vm's en tickets kunnen beheren. Een platform gebouwd met
+    verschillende technieken en frameworks o.a.: PHP, Symfony (6), CakePHP (2/3), Docker,
+    Kubernetes, MySQL, Angular en AngularJS, helm, helmfile.
+
+    Hierin zitten koppelingen met o.a.: Commvault, Bacula, Ansible, PowerDNS, Let's
+    Encrypt (dehydrated), Openprovider.
+
+    Naast mijn normale werkzaamheden als developer ben ik ook betrokken bij de
+    Feestcommissie, verantwoordelijk voor het kerstfeest, LAN-parties en BBQ's.
+  jobs:
+    - title: Medior Developer
+      dates: januari 2024 - heden
+    - title: Junior Developer
+      dates: augustus 2022 - december 2023
 
 - layout: top
   company: Minor Programmeren - Universiteit van Amsterdam

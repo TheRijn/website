@@ -9,13 +9,14 @@
 
 - layout: top
   name: Universiteit van Amsterdam
-  dates: september 2016 - heden
+  dates: september 2016 - juli 2022
   qualification: BSc Computer Science
+  description: Propedeuse behaald. (135/180 ects)
 
 - layout: left
   name: Minor Programmeren - Universiteit van Amsterdam
   dates: februari 2016 - juli 2016
-  qualification: Minor Programmeren (30ec)
+  qualification: Minor Programmeren (30 ects)
   description: |
     _Vakken:_
     - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21841)

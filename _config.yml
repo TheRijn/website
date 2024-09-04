@@ -1,15 +1,16 @@
 # Site
 repository: TheRijn/website
 favicon: images/favicon.ico
+version: 1
 
 # Personal info
 name: Marijn Doeve
-title: Junior Developer bij True B.V.
+title: Developer bij True
 email: marijn@doeve.me
 # website: marijndoeve.nl
 
 # Social links
-twitter_username: marijn100
+# twitter_username: marijn100
 github_username: TheRijn
 stackoverflow_username: "4734846"
 # dribbble_username: jekyll
@@ -24,33 +25,26 @@ linkedin_username: marijndoeve
 about_title: Over mij
 about_profile_image: images/marijn.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hoi! Ik ben Marijn all-round nerd en student Informatica. Ik heb mijn bachelor bijna
-  afgerond, maar ben voor nu eerst opzoek naar een leuke baan.
-
-  Ik heb veel ervaring met Python
-  en Swift, maar vind het ook erg leuk om iets nieuws te leren.
-
+  Hoi! Ik ben Marijn all-round nerd en developer bij True. Sinds augustus 2022 werkzaam
+  als PHP-developer met nog altijd een liefde voor Python.
 # Projects Section
 projects_title: Projecten
 
 # Experience Section
-experience_title: Ervaringen
+experience_title: Ervaring
 
 # Education Section
-education_title: Opleidingen
+education_title: Opleiding
 
 # More Section
 # more_title: Meer over mij
 # more_content: | # this will include new lines to allow paragraphs
-#   Daarnaast zijn mijn hobbies:
-#     - Solderen
-#     - Snowboarden
-more_title: Programmeertalen en Frameworks
-more_content: |
-  Een selectie van de programmeertalen en frameworks waar ik door de jaren heen mee
-  gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
+# more_title: Programmeertalen en Frameworks
+# more_content: |
+#   Een selectie van de programmeertalen en frameworks waar ik door de jaren heen mee
+#   gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
 
-  Android, Arduino, Bash, __C__, C#, C++, CSS, __Django__, __Docker__, ESP32, Flask, Git, Go, Haskell, HTML, Java, JavaScript, Jinja, LaTeX, Linux, macOS, Nginx, pfSense, PHP, PostgreSQL, Prolog, Pug, __Python__, Sass, Scratch, SQL, __Swift__, SwiftUI, Treafik, TypeScript , Ubuntu, UIKit, Unity, Vue.js
+#   Android, Arduino, Bash, __C__, C#, C++, CSS, __Django__, __Docker__, ESP32, Flask, Git, Go, Haskell, HTML, Java, JavaScript, Jinja, LaTeX, Linux, macOS, Nginx, pfSense, PHP, PostgreSQL, Prolog, Pug, __Python__, Sass, Scratch, SQL, __Swift__, SwiftUI, Treafik, TypeScript , Ubuntu, UIKit, Unity, Vue.js
 
 # Footer
 footer_show_references: false
@@ -66,3 +60,11 @@ plugins:
   - jekyll-seo-tag
 
 darkmode: false
+
+exclude:
+  - "*.py"
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - LICENCE
