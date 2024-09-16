@@ -7,4 +7,4 @@ install:
 	bundle install
 
 clean:
-	rm -rf _site
+	bundle exec jekyll clean

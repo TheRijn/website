@@ -1,7 +1,7 @@
 # Site
 repository: TheRijn/website
 favicon: images/favicon.ico
-version: 1
+version: 2
 
 # Personal info
 name: Marijn Doeve
@@ -27,24 +27,95 @@ about_profile_image: images/marijn.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hoi! Ik ben Marijn all-round nerd en developer bij True. Sinds augustus 2022 werkzaam
   als PHP-developer met nog altijd een liefde voor Python.
-# Projects Section
-projects_title: Projecten
 
-# Experience Section
-experience_title: Ervaring
+content:
+  - title: Ervaring
+    layout: list
+    content:
+      - layout: left
+        title: True B.V.
+        sub_title: Software Developer
+        caption: augustus 2024 - heden
+        link: true.nl
+        description: |
+          - In een team van 5 werken aan TrueCare en TrueAdmin
+          - Het implementeren van nieuwe functies vanuit het scrumboard
+          - Automatiseren van o.a. VM's, DNS, LE, facturatie en Back-ups
+          - Oplossen van bugs die binnenkomen via tickets van klanten of medewerkers
+          - Organiseren van BBQ's, LAN-party's en kerstfeesten bij de Feestcommissie
 
-# Education Section
-education_title: Opleiding
+          _Techstack:_ PHP 5.5-8.3, Symfony 6, Kubernetes, Angular, CakePHP 2/3, MySQL
 
-# More Section
-# more_title: Meer over mij
-# more_content: | # this will include new lines to allow paragraphs
-more_title: Talen en technieken
-more_content: |
-  Een selectie van de programmeertalen en frameworks waar ik door de jaren heen mee
-  gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
+      - layout: left
+        title: Minor Programmeren - Universiteit van Amsterdam
+        link: proglab.nl
+        sub_title: Student-assistent
+        caption: februari 2017 - juli 2022
+        # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          -  Studenten helpen bij het leren programmeren met CS50
+          -  Geven van werkgroepen en beoordelen van code en voorzien van feedback
+          -  Ontwikkelen van vakken en lesmateriaal
+          -  Tutor en eerste aanspreekpunt voor studenten
+          -  Verzorgen van laptopinstallatie en maken van handleidingen voor studenten
 
-  Android, Angular, AngularJS, Arduino, Bash, __C__, C#, C++, CakePHP, CSS, __Django__, __Docker__, ESP32, Flask, Git, Go, Haskell, Helm, HTML, Java, JavaScript, Jinja, Kubernetes, LaTeX, Linux, macOS, Nginx, pfSense, __PHP__, PostgreSQL, Prolog, __Python__, Sass, Scratch, SQL, __Swift__, SwiftUI, __Symfony__, Treafik, TypeScript , Ubuntu, UIKit, Unity, Vue.js
+          _Techstack:_ C, Python, Django, Flask, numpy, Swift(UI), UIKit, Jekyll
+
+          - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/89535) & [2](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/89536) - gebaseerd op Harvard's CS50
+          - [Native App Studio](https://studiegids.uva.nl/xmlpages/page/2018-2019/zoek-vak/vak/63037) -  iOS en Android development
+          - [Web App Studio](https://studiegids.uva.nl/xmlpages/page/2019-2020/zoek-vak/vak/73624) - gebaseerd op Harvard's CS50 Webprogramming with JavaScript and Python
+          - [Programmeerplatforms](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/90366)
+          - [Programmeerproject](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/90367)
+          - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/89256)
+
+  - title: Opleiding
+    layout: list
+    content:
+      - layout: top-middle
+        title: Universiteit van Amsterdam
+        sub_title: september 2016 - juli 2022
+        caption: Informarica
+
+      - layout: top-middle
+        title: Minor Programmeren - Universiteit van Amsterdam
+        sub_title: februari 2016 - juli 2016
+        # description: |
+          # _Vakken:_
+          # - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21841)
+          # - [Programmeren 2](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21842)
+          # - [Native App Studio - iOS track](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/22110)
+          # - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21567)
+          # - [Programmeerproject](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/19645)
+      - layout: top-middle
+        title: Hogeschool Leiden
+        sub_title: september 2012 - juli 2016
+        caption: Chemie
+
+  - title: Nevenactiviteiten
+    layout: list
+    content:
+      - layout: left
+        title: Homelab
+        description: |
+          Klein clustertje waar ik enkele applicaties op host voor mediaconsumpsie, Minecraft en andere projectjes.
+          _Techstack:_ Proxmox, Ubuntu, Docker compose, Kubernetes, Talos, Traefik, Gitea, Portainer, Synology, UniFi
+
+      - layout: left
+        title: <b>via</b> ICT-commissie
+        link: svia.nl
+        description: |
+          Developmentwerkzaamheden aan de website en het kassasysteem van de studievereniging.
+          _Techstack:_ Python, Flask, FastAPI, SQLAlchamy en Vue.js}
+
+  - title: Talen en technieken
+    layout: text
+    content: |
+      Een selectie van de programmeertalen en frameworks waar ik door de jaren heen mee
+      gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
+
+      Android, Angular, AngularJS, Arduino, Bash, __C__, C#, C++, CakePHP, CSS, __Django__, __Docker__, ESP32, Flask, Git, Go, Haskell, Helm, HTML, Java, JavaScript, Jinja, Kubernetes, LaTeX, Linux, macOS, Nginx, pfSense, __PHP__, PostgreSQL, Prolog, __Python__, Sass, Scratch, SQL, __Swift__, SwiftUI, __Symfony__, Treafik, TypeScript , Ubuntu, UIKit, Unity, Vue.js
+
 
 # Footer
 footer_show_references: false
