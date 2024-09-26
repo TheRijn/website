@@ -35,7 +35,7 @@ content:
       - layout: left
         title: True B.V.
         sub_title: Software Developer
-        caption: augustus 2024 - heden
+        caption: augustus 2022 - heden
         link: true.nl
         description: |
           - In een team van 5 werken aan TrueCare en TrueAdmin
@@ -75,18 +75,18 @@ content:
       - layout: top-middle
         title: Universiteit van Amsterdam
         sub_title: september 2016 - juli 2022
-        caption: Informarica
+        caption: Informatica
 
       - layout: top-middle
         title: Minor Programmeren - Universiteit van Amsterdam
         sub_title: februari 2016 - juli 2016
         # description: |
-          # _Vakken:_
-          # - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21841)
-          # - [Programmeren 2](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21842)
-          # - [Native App Studio - iOS track](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/22110)
-          # - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21567)
-          # - [Programmeerproject](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/19645)
+        # _Vakken:_
+        # - [Programmeren 1](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21841)
+        # - [Programmeren 2](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21842)
+        # - [Native App Studio - iOS track](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/22110)
+        # - [Programmeertheorie](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/21567)
+        # - [Programmeerproject](https://studiegids.uva.nl/xmlpages/page/2015-2016/zoek-vak/vak/19645)
       - layout: top-middle
         title: Hogeschool Leiden
         sub_title: september 2012 - juli 2016
@@ -115,7 +115,6 @@ content:
       gewerkt heb. De meeste ervaring heb ik met de __dikgedrukte__ items
 
       Android, Angular, AngularJS, Arduino, Bash, __C__, C#, C++, CakePHP, CSS, __Django__, __Docker__, ESP32, Flask, Git, Go, Haskell, Helm, HTML, Java, JavaScript, Jinja, Kubernetes, LaTeX, Linux, macOS, Nginx, pfSense, __PHP__, PostgreSQL, Prolog, __Python__, Sass, Scratch, SQL, __Swift__, SwiftUI, __Symfony__, Treafik, TypeScript , Ubuntu, UIKit, Unity, Vue.js
-
 
 # Footer
 footer_show_references: false
